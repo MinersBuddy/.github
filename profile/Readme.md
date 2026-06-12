@@ -28,12 +28,12 @@ Mining certifications are tough. Resources are scattered. Preparation is hard.
 
 | Module | Description | Status |
 |---|---|---|
-| 📚 **Coal Mines (CMR 2017)** | Chapter-wise structured content for all CMR certifications | ✅ Live |
-| ⛰️ **Metal Mines (MMR 1961)** | Full MMR exam content for opencast & underground | ✅ Live |
-| 📝 **Mock Tests & PYQs** | Previous Year Questions + Full Mock Exams | ✅ Live |
-| 📄 **PDF Library** | CMR Handbook, MMR Guides, Formula Sheets & Quick Notes | ✅ Live |
-| 🗓️ **Exam Syllabus** | DGMS & JUT Diploma syllabus, downloadable | ✅ Live |
-| 📢 **DGMS Announcements** | Live circulars & updates from DGMS | ✅ Live |
+| 📚 **Coal Mines (CMR 2017)** | Chapter-wise structured content for all CMR certifications | Coming soon|
+| ⛰️ **Metal Mines (MMR 1961)** | Full MMR exam content for opencast & underground |🔨 In Development |
+| 📝 **Mock Tests & PYQs** | Previous Year Questions + Full Mock Exams | 🔨 In Development |
+| 📄 **PDF Library** | CMR Handbook, MMR Guides, Formula Sheets & Quick Notes | 🔨 In Development |
+| 🗓️ **Exam Syllabus** | DGMS & JUT Diploma syllabus, downloadable | Coming soon|
+| 📢 **DGMS Announcements** | Live circulars & updates from DGMS | 🔨 In Development |
 | 🌐 **MinersBuddy — Web** | Full web platform at minersbuddy.vercel.app | ✅ Live |
 | 📱 **MinersBuddy — App** | Android & iOS Mobile App | 🔨 In Development |
 
