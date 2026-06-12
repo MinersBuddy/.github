@@ -52,29 +52,30 @@ Mining certifications are tough. Resources are scattered. Preparation is hard.
 
 ---
 
-## 📋 Exams Covered
+## 📋 Exams We Covered
 
-### 🏭 Coal Mines Regulations (CMR 2017)
-
-| Exam | Type | Chapters | Questions |
-|---|---|---|---|
-| Mining Mate | Opencast | 15 | 250+ |
-| Foreman | Opencast | 18 | 350+ |
-| Overman | Underground | 20 | 400+ |
-| Manager | Opencast | 22 | 500+ |
-| Manager | Underground | 25 | 600+ |
-| Foreman | Underground | 22 | 450+ |
-
-### ⛏️ Metalliferous Mines Regulations (MMR 1961)
+### 🏭 Coal Mines 
 
 | Exam | Type | Chapters | Questions |
 |---|---|---|---|
-| Mining Sirdar | Opencast | 14 | 220+ |
-| Mining Sirdar | Underground | 16 | 280+ |
-| Foreman | Opencast | 17 | 340+ |
-| Foreman | Underground | 19 | 420+ |
-| Manager | Opencast | 21 | 480+ |
-| Manager | Underground | 24 | 550+ |
+| Overman | Restricted | 13 | 290+ |
+| Overman | Unrestricted | 20 | 400+ |
+| Manager | Restricted | 22 | 500+ |
+| Manager | Unrestricted | 25 | 600+ |
+
+
+### ⛏️ Metalliferous Mines 
+
+| Exam | Type | Chapters | Questions |
+|---|---|---|---|
+| Mining Mate | Restricted | 15 | 250+ |
+| Mining Mate | Unrestricted | 18 | 350+ |
+| Mining Sirdar | Restricted | 14 | 220+ |
+| Mining Sirdar | Unrestricted | 16 | 280+ |
+| Foreman | Restricted | 17 | 340+ |
+| Foreman | Unrestricted | 19 | 420+ |
+| Manager | Restricted | 21 | 480+ |
+| Manager | Unrestricted  | 24 | 550+ |
 
 ---
 
