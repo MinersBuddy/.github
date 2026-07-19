@@ -65,7 +65,7 @@ Mining certifications are tough. Resources are scattered. Preparation is hard.
 
 | Name | Role |
 |---|---|
-| **K Vinit Karmkar** | Founder, Developer & Everything in Between |
+| **Vinit Karmkar** | Founder, Developer & Everything in Between |
 
 ---
 
