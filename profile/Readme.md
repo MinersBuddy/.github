@@ -13,9 +13,9 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ---
+</div>
 
 ## 🌟 Our Vision
-</div>
 
 > *"Every mining student deserves a smart, structured, and accessible way to prepare — regardless of where they come from."*
 
