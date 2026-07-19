@@ -16,6 +16,7 @@
 ---
 
 ## 🌟 Our Vision
+</div>
 
 > *"Every mining student deserves a smart, structured, and accessible way to prepare — regardless of where they come from."*
 
@@ -91,4 +92,3 @@ All contributions are welcome — especially from mining professionals and stude
 
 <sub>© 2024–2026 MinersBuddy by K Vinit Karmkar | All Rights Reserved</sub>
 
-</div>
