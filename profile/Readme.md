@@ -10,7 +10,6 @@
 
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Web%20%7C%20Android%20%7C%20iOS-blue?style=for-the-badge)
-![Made in India](https://img.shields.io/badge/Made%20in-India%20🇮🇳-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ---
