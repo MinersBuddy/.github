@@ -83,7 +83,8 @@ Got suggestions? Found a bug? Want to add questions or regulations?
 All contributions are welcome — especially from mining professionals and students who know the field!
 
 ---
-
+<div align="center">
+  
 ## 📬 Connect
 
 > 📩 For collaborations & inquiries: **info.minersbuddy@gmail.com**
@@ -91,4 +92,4 @@ All contributions are welcome — especially from mining professionals and stude
 ---
 
 <sub>© 2024–2026 MinersBuddy by K Vinit Karmkar | All Rights Reserved</sub>
-
+<div/>
