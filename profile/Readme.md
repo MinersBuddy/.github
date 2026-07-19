@@ -89,7 +89,5 @@ All contributions are welcome — especially from mining professionals and stude
 
 > 📩 For collaborations & inquiries: **info.minersbuddy@gmail.com**
 
----
-
 <sub>© 2024–2026 MinersBuddy by K Vinit Karmkar | All Rights Reserved</sub>
 <div/>
