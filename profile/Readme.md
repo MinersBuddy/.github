@@ -4,7 +4,7 @@
 
 ### *Your Ultimate Companion for DGMS & Mining Certifications*
 
-> Built for every mining student who dreams of cracking their certification — we don't just provide content, we **prepare you to succeed**.
+> Built for every mining student who dreams of cracking their exam — we don't just provide content, we **prepare you to succeed**.
 
 ---
 
@@ -52,43 +52,6 @@ Mining certifications are tough. Resources are scattered. Preparation is hard.
 
 ---
 
-## 📋 Exams We Covered
-
-### 🏭 Coal Mines 
-
-| Exam | Type | Chapters | Questions |
-|---|---|---|---|
-| Overman | Restricted | 13 | 290+ |
-| Overman | Unrestricted | 20 | 400+ |
-| Manager | Restricted | 22 | 500+ |
-| Manager | Unrestricted | 25 | 600+ |
-
-
-### ⛏️ Metalliferous Mines 
-
-| Exam | Type | Chapters | Questions |
-|---|---|---|---|
-| Mining Mate | Restricted | 15 | 250+ |
-| Mining Mate | Unrestricted | 18 | 350+ |
-| Mining Sirdar | Restricted | 14 | 220+ |
-| Mining Sirdar | Unrestricted | 16 | 280+ |
-| Foreman | Restricted | 17 | 340+ |
-| Foreman | Unrestricted | 19 | 420+ |
-| Manager | Restricted | 21 | 480+ |
-| Manager | Unrestricted  | 24 | 550+ |
-
----
-
-## 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
 ## 🌐 Live Platform
 
 > 🔗 **[minersbuddy.vercel.app](https://minersbuddy.vercel.app/)**  
@@ -120,18 +83,7 @@ All contributions are welcome — especially from mining professionals and stude
 
 ---
 
-## ☕ Support the Project
-
-MinersBuddy is free for every mining student. If it helped you prepare better, consider supporting its development.
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Development-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com)
-
----
-
 ## 📬 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-MinersBuddy-black?style=for-the-badge&logo=github)](https://github.com/your-username/MinersBuddy)
-[![Website](https://img.shields.io/badge/Website-minersbuddy.vercel.app-orange?style=for-the-badge&logo=vercel)](https://minersbuddy.vercel.app/)
 
 > 📩 For collaborations & inquiries: **info.minersbuddy@gmail.com**
 
