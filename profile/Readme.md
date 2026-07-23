@@ -1,4 +1,5 @@
-
+<div align="center">
+  
 ### *Engineering the future of mining education* 
 <br/>
 <div align="center">
