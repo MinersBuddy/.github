@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=220&section=header&text=MinersBuddy&fontSize=60&fontColor=0B1420&animation=fadeIn&fontAlignY=35&desc=Your%20Ultimate%20Companion%20for%20DGMS%20%26%20Mining%20Certifications&descAlignY=58&descSize=18&descColor=0B1420" width="100%"/>
+
 <br/>
 
 > Built for every mining student who dreams of cracking their exam — we don't just provide content, we **prepare you to succeed**.
