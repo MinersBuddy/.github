@@ -154,10 +154,9 @@ Clean commits, iterative shipping, and a product-first mindset — we'd rather s
 
 <br/>
 
-## 🤝 Connect
-
 <div align="center">
-
+## 📬 Connect
+  
 [![Website](https://img.shields.io/badge/Website-minersbuddy.vercel.app-0B1420?style=for-the-badge&logo=vercel&logoColor=F5C518)](https://minersbuddy.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-info.minersbuddy-0B1420?style=for-the-badge&logo=gmail&logoColor=F5C518)](mailto:info.minersbuddy@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@minersbuddy-0B1420?style=for-the-badge&logo=instagram&logoColor=F5C518)](https://www.instagram.com/minersbuddy)
