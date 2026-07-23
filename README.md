@@ -132,16 +132,6 @@ Smart reminders that surface topics right before you'd naturally forget them —
 **📈 A Profile That Grows With You**
 The more you practice, the sharper your recommendations get — your weak areas get more attention, your strong areas stay fresh.
 
-</div>
-
-<br/>
-
-## 🛠️ Core Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,postgres,docker,git,github,vercel&theme=dark" />
-</div>
-
 <br/>
 
 Clean commits, iterative shipping, and a product-first mindset — we'd rather ship something useful and improve it than wait for perfect.
@@ -176,7 +166,3 @@ Clean commits, iterative shipping, and a product-first mindset — we'd rather s
 </div>
 
 <br/>
-
-```
-────────────────────────────────────────────────────────────────────────────────
-```
