@@ -1,8 +1,8 @@
 <svg viewBox="0 0 700 420" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <radialGradient id="nodeGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#F5C518" stop-opacity="1"/>
-      <stop offset="100%" stop-color="#F5C518" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#22C55E" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#22C55E" stop-opacity="0"/>
     </radialGradient>
     <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="4" result="blur"/>
@@ -16,7 +16,7 @@
   <rect width="700" height="420" fill="#0B1420"/>
 
   <!-- edges -->
-  <g stroke="#F5C518" stroke-opacity="0.35" stroke-width="1.6">
+  <g stroke="#22C55E" stroke-opacity="0.35" stroke-width="1.6">
     <line x1="350" y1="210" x2="150" y2="90"/>
     <line x1="350" y1="210" x2="150" y2="330"/>
     <line x1="350" y1="210" x2="350" y2="60"/>
@@ -34,38 +34,38 @@
 
   <!-- satellite nodes -->
   <g>
-    <circle cx="150" cy="90" r="26" fill="#0B1420" stroke="#F5C518" stroke-width="2"/>
-    <circle cx="150" cy="90" r="6" fill="#F5C518"/>
-    <text x="150" y="55" text-anchor="middle" fill="#F5C518" font-family="monospace" font-size="13">Regulations</text>
+    <circle cx="150" cy="90" r="26" fill="#0B1420" stroke="#22C55E" stroke-width="2"/>
+    <circle cx="150" cy="90" r="6" fill="#22C55E"/>
+    <text x="150" y="55" text-anchor="middle" fill="#22C55E" font-family="monospace" font-size="13">Regulations</text>
 
-    <circle cx="350" cy="60" r="26" fill="#0B1420" stroke="#F5C518" stroke-width="2"/>
-    <circle cx="350" cy="60" r="6" fill="#F5C518"/>
-    <text x="350" y="25" text-anchor="middle" fill="#F5C518" font-family="monospace" font-size="13">Syllabus</text>
+    <circle cx="350" cy="60" r="26" fill="#0B1420" stroke="#22C55E" stroke-width="2"/>
+    <circle cx="350" cy="60" r="6" fill="#22C55E"/>
+    <text x="350" y="25" text-anchor="middle" fill="#22C55E" font-family="monospace" font-size="13">Syllabus</text>
 
-    <circle cx="550" cy="90" r="26" fill="#0B1420" stroke="#F5C518" stroke-width="2"/>
-    <circle cx="550" cy="90" r="6" fill="#F5C518"/>
-    <text x="550" y="55" text-anchor="middle" fill="#F5C518" font-family="monospace" font-size="13">PYQs</text>
+    <circle cx="550" cy="90" r="26" fill="#0B1420" stroke="#22C55E" stroke-width="2"/>
+    <circle cx="550" cy="90" r="6" fill="#22C55E"/>
+    <text x="550" y="55" text-anchor="middle" fill="#22C55E" font-family="monospace" font-size="13">PYQs</text>
 
-    <circle cx="220" cy="200" r="22" fill="#0B1420" stroke="#F5C518" stroke-width="1.6" stroke-opacity="0.7"/>
-    <circle cx="220" cy="200" r="5" fill="#F5C518" fill-opacity="0.8"/>
-    <text x="200" y="195" text-anchor="end" fill="#F5C518" font-family="monospace" font-size="12" opacity="0.85">Concepts</text>
+    <circle cx="220" cy="200" r="22" fill="#0B1420" stroke="#22C55E" stroke-width="1.6" stroke-opacity="0.7"/>
+    <circle cx="220" cy="200" r="5" fill="#22C55E" fill-opacity="0.8"/>
+    <text x="200" y="195" text-anchor="end" fill="#22C55E" font-family="monospace" font-size="12" opacity="0.85">Concepts</text>
 
-    <circle cx="480" cy="220" r="22" fill="#0B1420" stroke="#F5C518" stroke-width="1.6" stroke-opacity="0.7"/>
-    <circle cx="480" cy="220" r="5" fill="#F5C518" fill-opacity="0.8"/>
-    <text x="500" y="215" text-anchor="start" fill="#F5C518" font-family="monospace" font-size="12" opacity="0.85">Topics</text>
+    <circle cx="480" cy="220" r="22" fill="#0B1420" stroke="#22C55E" stroke-width="1.6" stroke-opacity="0.7"/>
+    <circle cx="480" cy="220" r="5" fill="#22C55E" fill-opacity="0.8"/>
+    <text x="500" y="215" text-anchor="start" fill="#22C55E" font-family="monospace" font-size="12" opacity="0.85">Topics</text>
 
-    <circle cx="150" cy="330" r="26" fill="#0B1420" stroke="#F5C518" stroke-width="2"/>
-    <circle cx="150" cy="330" r="6" fill="#F5C518"/>
-    <text x="150" y="368" text-anchor="middle" fill="#F5C518" font-family="monospace" font-size="13">Mock Tests</text>
+    <circle cx="150" cy="330" r="26" fill="#0B1420" stroke="#22C55E" stroke-width="2"/>
+    <circle cx="150" cy="330" r="6" fill="#22C55E"/>
+    <text x="150" y="368" text-anchor="middle" fill="#22C55E" font-family="monospace" font-size="13">Mock Tests</text>
 
-    <circle cx="550" cy="330" r="26" fill="#0B1420" stroke="#F5C518" stroke-width="2"/>
-    <circle cx="550" cy="330" r="6" fill="#F5C518"/>
-    <text x="550" y="368" text-anchor="middle" fill="#F5C518" font-family="monospace" font-size="13">Student Progress</text>
+    <circle cx="550" cy="330" r="26" fill="#0B1420" stroke="#22C55E" stroke-width="2"/>
+    <circle cx="550" cy="330" r="6" fill="#22C55E"/>
+    <text x="550" y="368" text-anchor="middle" fill="#22C55E" font-family="monospace" font-size="13">Student Progress</text>
   </g>
 
   <!-- central node -->
   <circle cx="350" cy="210" r="70" fill="url(#nodeGlow)" opacity="0.25"/>
-  <circle cx="350" cy="210" r="44" fill="#0B1420" stroke="#F5C518" stroke-width="2.5" filter="url(#softGlow)"/>
-  <text x="350" y="205" text-anchor="middle" fill="#F5C518" font-family="monospace" font-size="14" font-weight="bold">Knowledge</text>
-  <text x="350" y="222" text-anchor="middle" fill="#F5C518" font-family="monospace" font-size="14" font-weight="bold">Graph</text>
+  <circle cx="350" cy="210" r="44" fill="#0B1420" stroke="#22C55E" stroke-width="2.5" filter="url(#softGlow)"/>
+  <text x="350" y="205" text-anchor="middle" fill="#22C55E" font-family="monospace" font-size="14" font-weight="bold">Knowledge</text>
+  <text x="350" y="222" text-anchor="middle" fill="#22C55E" font-family="monospace" font-size="14" font-weight="bold">Graph</text>
 </svg>
