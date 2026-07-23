@@ -151,8 +151,7 @@ Clean commits, iterative shipping, and a product-first mindset — we'd rather s
 ## 🧬 Under the Hood
 
 <div align="center">
-<img src="../assets/knowledge-graph.svg" width="48%" />
-<img src="../assets/forgetting-curve.svg" width="48%" />
+<img src="./assets/forgetting-curve.svg" width="100%" />
 </div>
 
 <p align="center"><sub>How content connects, and how we time every revision so it actually sticks.</sub></p>
