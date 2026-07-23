@@ -1,6 +1,6 @@
 <div align="center">
   
-### *Engineering the future of mining education* 
+## *Engineering the future of mining education* 
 <br/>
 </div>
 <div align="center">
