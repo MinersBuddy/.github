@@ -27,6 +27,16 @@ We believe good preparation shouldn't depend on scattered PDFs, outdated guides,
 
 <br/>
 
+##  Under the Hood
+
+<div align="center">
+<img src="../assets/forgetting-curve.svg" width="100%" />
+</div>
+
+<p align="center"><sub>How content connects, and how we time every revision so it actually sticks.</sub></p>
+
+<br/>
+
 ## 🚧 Currently In Progress
 
 <div align="center">
@@ -123,16 +133,6 @@ The more you practice, the sharper your recommendations get — your weak areas 
 <br/>
 
 Clean commits, iterative shipping, and a product-first mindset — we'd rather ship something useful and improve it than wait for perfect.
-
-<br/>
-
-##  Under the Hood
-
-<div align="center">
-<img src="../assets/forgetting-curve.svg" width="100%" />
-</div>
-
-<p align="center"><sub>How content connects, and how we time every revision so it actually sticks.</sub></p>
 
 <br/>
 
