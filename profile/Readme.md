@@ -1,7 +1,5 @@
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=200&section=header&text=MB%20Tech%20Dev&fontSize=55&fontColor=0B1420&animation=fadeIn&fontAlignY=38&desc=Engineering%20the%20future%20of%20mining%20education&descAlignY=58&descSize=18" width="100%"/>
+### *Engineering the future of mining education*
 
 <br/>
 
@@ -150,6 +148,17 @@ Clean commits, iterative shipping, and a product-first mindset — we'd rather s
 
 <br/>
 
+## 🧬 Under the Hood
+
+<div align="center">
+<img src="./assets/knowledge-graph.svg" width="48%" />
+<img src="./assets/forgetting-curve.svg" width="48%" />
+</div>
+
+<p align="center"><sub>How content connects, and how we time every revision so it actually sticks.</sub></p>
+
+<br/>
+
 ## 📈 Activity
 
 <div align="center">
@@ -177,4 +186,8 @@ Clean commits, iterative shipping, and a product-first mindset — we'd rather s
 <i>Building, one commit at a time — for every miner's success.</i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=100&section=footer" width="100%"/>
+<br/>
+
+```
+────────────────────────────────────────────────────────────────────────────────
+```
