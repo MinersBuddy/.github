@@ -1,11 +1,5 @@
 
-<div align="center">
-<img src="../assets/banner.svg" width="100%" />
-</div>
-
-<div align="center">
-### *Engineering the future of mining education*
-
+### *Engineering the future of mining education* 
 <br/>
 
 <img src="https://img.shields.io/badge/ORG-MinersBuddy-0B1420?style=for-the-badge&logo=github&logoColor=F5C518"/>
