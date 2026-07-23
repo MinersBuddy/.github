@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=220&section=header&text=MinersBuddy&fontSize=60&fontColor=0B1420&animation=fadeIn&fontAlignY=35&desc=Your%20Ultimate%20Companion%20for%20DGMS%20%26%20Mining%20Certifications&descAlignY=58&descSize=18&descColor=0B1420" width="100%"/>
-
 <br/>
 
 > Built for every mining student who dreams of cracking their exam — we don't just provide content, we **prepare you to succeed**.
@@ -62,11 +60,17 @@ Mining certifications are tough. Resources are scattered. Preparation is hard.
 
 ## 👥 The Team
 
-> One person. One mission. Every miner's success.
+> Small team, big mission — every miner's success.
 
-| Name | Role |
-|---|---|
-| **Vinit Karmkar** | Founder, Developer & Everything in Between |
+<div align="center">
+
+| Name | Role in MB | Connect |
+|---|---|---|
+| **Vinit Karmkar** | Founder & Full-Stack Developer | [![GitHub](https://img.shields.io/badge/GitHub-0B1420?style=flat-square&logo=github&logoColor=F5C518)](https://github.com/kvinitkarmkar) |
+
+</div>
+
+> 🚀 **We're growing.** MinersBuddy is expanding beyond a one-person team — if you're a mining professional, developer, or designer who wants in, [reach out](mailto:info.minersbuddy@gmail.com).
 
 ---
 
