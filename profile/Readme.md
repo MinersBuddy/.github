@@ -1,101 +1,180 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=220&section=header&text=MinersBuddy&fontSize=60&fontColor=0B1420&animation=fadeIn&fontAlignY=35&desc=Your%20Ultimate%20Companion%20for%20DGMS%20%26%20Mining%20Certifications&descAlignY=58&descSize=18&descColor=0B1420" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=200&section=header&text=MB%20Tech%20Dev&fontSize=55&fontColor=0B1420&animation=fadeIn&fontAlignY=38&desc=Engineering%20the%20future%20of%20mining%20education&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
 
-> Built for every mining student who dreams of cracking their exam — we don't just provide content, we **prepare you to succeed**.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Status-Live-F5C518?style=for-the-badge&labelColor=0B1420"/>
-<img src="https://img.shields.io/badge/Platform-Web%20%7C%20Android%20%7C%20iOS-0B1420?style=for-the-badge&logoColor=F5C518"/>
-<img src="https://img.shields.io/badge/License-MIT-F5C518?style=for-the-badge&labelColor=0B1420"/>
+<img src="https://img.shields.io/badge/ORG-MinersBuddy-0B1420?style=for-the-badge&logo=github&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/STATUS-In%20Progress-F5C518?style=for-the-badge&logoColor=0B1420&color=F5C518&labelColor=0B1420"/>
+<img src="https://img.shields.io/badge/FOCUS-Product%20%26%20Platform-0B1420?style=for-the-badge&logoColor=F5C518"/>
 
 </div>
 
----
+<br/>
+
+## ⛏️ Who We Are
+
+We're the technology team behind **[MinersBuddy](https://minersbuddy.vercel.app/)** — building an AI-powered learning platform that gives every mining student a smarter, more structured way to prepare for their DGMS certifications.
+
+This account is where that platform gets built, piece by piece.
+
+<br/>
 
 ## 🌟 Our Vision
 
-> *"Every mining student deserves a smart, structured, and accessible way to prepare — regardless of where they come from."*
+> *A mining student anywhere — from a small town to a big city — should have the same quality of exam preparation as anyone else.*
 
-Mining certifications are tough. Resources are scattered. Preparation is hard.  
-**MinersBuddy** changes that — one regulation, one quiz, one miner at a time.
+We believe good preparation shouldn't depend on scattered PDFs, outdated guides, or guesswork. MinersBuddy exists to turn that chaos into one clear, guided path — and this team is the engine that makes it real.
 
----
+<br/>
 
-## 🚀 What MinersBuddy Offers
-
-| Module | Description | Status |
-|---|---|---|
-| 📚 **Coal Mines (CMR 2017)** | Chapter-wise structured content for all CMR certifications | Coming soon|
-| ⛰️ **Metal Mines (MMR 1961)** | Full MMR exam content for opencast & underground |🔨 In Development |
-| 📝 **Mock Tests & PYQs** | Previous Year Questions + Full Mock Exams | 🔨 In Development |
-| 📄 **PDF Library** | CMR Handbook, MMR Guides, Formula Sheets & Quick Notes | 🔨 In Development |
-| 🗓️ **Exam Syllabus** | DGMS & JUT Diploma syllabus, downloadable | Coming soon|
-| 📢 **DGMS Announcements** | Live circulars & updates from DGMS | 🔨 In Development |
-| 🌐 **MinersBuddy — Web** | Full web platform at minersbuddy.vercel.app | ✅ Live |
-| 📱 **MinersBuddy — App** | Android & iOS Mobile App | 🔨 In Development |
-
----
-
-## 💡 Core Features
-
-- 📖 **Exam-wise Structured Content** — Chapters organized by Mining Mate, Foreman, Overman, and Manager level
-- 🧪 **Mock Tests & PYQs** — Full-length tests with timer, question palette, and instant result analysis
-- 📊 **Progress Tracker** — Track tests done, average score, and saved notes
-- 🔔 **Daily Regulation Tips** — One regulation every day to keep you sharp
-- 📥 **PDF Downloads** — CMR 2017 Handbook, MMR Guides, ventilation formulas & more
-- 🗓️ **Exam Countdown** — Never miss your target exam date
-- 🌙 **Dark Mode** — Easy on the eyes during late-night study sessions
-- 🔒 **Privacy First** — Your data, your control
-
----
-
-## 🌐 Live Platform
-
-> 🔗 **[minersbuddy.vercel.app](https://minersbuddy.vercel.app/)**  
-> Open on any device — no download required.
-
----
-
-## 👥 The Team
-
-> Small team, big mission — every miner's success.
+## 🚧 Currently In Progress
 
 <div align="center">
 
-| Name | Role in MB | Connect |
-|---|---|---|
-| **Vinit Karmkar** | Founder & Full-Stack Developer | [![GitHub](https://img.shields.io/badge/GitHub-0B1420?style=flat-square&logo=github&logoColor=F5C518)](https://github.com/kvinitkarmkar) |
+| Area | Status |
+|---|---|
+| 🌐 Core Web Platform | ✅ Live |
+| 🧠 Smart Content & Test Engine | 🔨 Building |
+| 📱 Mobile Experience | 🔨 Building |
+| 📊 Personalized Analytics | 🔨 Building |
+| 🔁 Continuous Improvements | 🟢 Ongoing |
 
 </div>
 
-> 🚀 **We're growing.** MinersBuddy is expanding beyond a one-person team — if you're a mining professional, developer, or designer who wants in, [reach out](mailto:info.minersbuddy@gmail.com).
+We're early, we're building fast, and this profile evolves as the product does.
 
----
+<br/>
 
-## 🤝 Contributing
-
-Got suggestions? Found a bug? Want to add questions or regulations?
-
-1. Fork this repository
-2. Create your feature branch: `git checkout -b feature/YourFeature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/YourFeature`
-5. Open a Pull Request
-
-All contributions are welcome — especially from mining professionals and students who know the field!
-
----
+## 🌐 Website
 
 <div align="center">
 
-## 📬 Connect
-
-> 📩 For collaborations & inquiries: **info.minersbuddy@gmail.com**
-
-<sub>© 2026 MinersBuddy by kvinitkarmkar | All Rights Reserved</sub>
+**[minersbuddy.vercel.app](https://minersbuddy.vercel.app/)** — ✅ Live
 
 </div>
+
+The core web platform where students access content, tests, and progress tracking. Actively maintained with new features shipped continuously.
+
+<br/>
+
+## 📱 Mobile App
+
+<div align="center">
+
+**Android & iOS App** — 🔨 In Development
+
+</div>
+
+Bringing the full MinersBuddy experience to mobile — study on the go, offline access, and push reminders for upcoming exams.
+
+<br/>
+
+## ✨ Features
+
+<table align="center">
+<tr>
+<td valign="top">
+
+**🔨 Ongoing**
+- Metal Mines (MMR 1961) content
+- Mock Tests & PYQs
+- PDF Library (Handbooks, Guides, Formula Sheets)
+- DGMS Announcements & circulars
+- Personalized progress analytics
+- Mobile app build
+
+</td>
+<td valign="top">
+
+**🕐 Upcoming**
+- Coal Mines (CMR 2017) content
+- Downloadable exam syllabus (DGMS & JUT Diploma)
+- Daily regulation tips
+- Exam countdown tracker
+- Dark mode
+- Notification system
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧠 What Makes It Smart
+
+MinersBuddy isn't just static content — it adapts to *you*.
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**🎯 Personalized Prep**
+The platform learns what you know and what you don't — and adjusts what it shows you accordingly.
+
+**🧩 Content You Can Trust**
+Every question and explanation is grounded in real regulations and past papers — no vague or made-up answers.
+
+</td>
+<td width="50%" valign="top">
+
+**🔍 Search That Understands You**
+Find what you need by meaning, not just exact keywords.
+
+**⏰ Revise at the Right Time**
+Smart reminders that surface topics right before you'd naturally forget them — not too early, not too late.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**📈 A Profile That Grows With You**
+The more you practice, the sharper your recommendations get — your weak areas get more attention, your strong areas stay fresh.
+
+</div>
+
+<br/>
+
+## 🛠️ Core Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,postgres,docker,git,github,vercel&theme=dark" />
+</div>
+
+<br/>
+
+Clean commits, iterative shipping, and a product-first mindset — we'd rather ship something useful and improve it than wait for perfect.
+
+<br/>
+
+## 📈 Activity
+
+<div align="center">
+<!-- Replace YOUR_USERNAME with this account's actual GitHub username -->
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0B1420&title_color=F5C518&icon_color=F5C518&text_color=ffffff&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0B1420&ring=F5C518&fire=F5C518&currStreakLabel=F5C518" height="165"/>
+</div>
+
+<br/>
+
+## 🤝 Connect
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-minersbuddy.vercel.app-0B1420?style=for-the-badge&logo=vercel&logoColor=F5C518)](https://minersbuddy.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-info.minersbuddy-0B1420?style=for-the-badge&logo=gmail&logoColor=F5C518)](mailto:info.minersbuddy@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@minersbuddy-0B1420?style=for-the-badge&logo=instagram&logoColor=F5C518)](https://www.instagram.com/minersbuddy)
+[![X](https://img.shields.io/badge/X-@minersbuddy-0B1420?style=for-the-badge&logo=x&logoColor=F5C518)](https://x.com/minersbuddy)
+
+</div>
+
+<br/>
+
+<div align="center">
+<i>Building, one commit at a time — for every miner's success.</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=100&section=footer" width="100%"/>
