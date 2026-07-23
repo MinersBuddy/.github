@@ -1,85 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=220&section=header&text=MinersBuddy&fontSize=60&fontColor=0B1420&animation=fadeIn&fontAlignY=35&desc=Your%20Ultimate%20Companion%20for%20DGMS%20%26%20Mining%20Certifications&descAlignY=58&descSize=18&descColor=0B1420" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=260&section=header&text=MinersBuddy&fontSize=70&fontColor=0B1420&animation=fadeIn&fontAlignY=40&desc=Your%20Ultimate%20Companion%20for%20DGMS%20%26%20Mining%20Certifications&descAlignY=62&descSize=20&descColor=0B1420" width="100%"/>
+
+### *We don't just provide content — we prepare you to succeed.*
 
 <br/>
 
-> Built for every mining student who dreams of cracking their exam — we don't just provide content, we **prepare you to succeed.**
+<a href="https://minersbuddy.vercel.app/"><img src="https://img.shields.io/badge/🌐_VISIT_PLATFORM-0B1420?style=for-the-badge&labelColor=0B1420&color=F5C518&logoColor=0B1420"/></a>
+<a href="mailto:info.minersbuddy@gmail.com"><img src="https://img.shields.io/badge/📩_GET_IN_TOUCH-F5C518?style=for-the-badge&labelColor=0B1420"/></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-LIVE-F5C518?style=for-the-badge&labelColor=0B1420"/>
-<img src="https://img.shields.io/badge/PLATFORM-WEB%20|%20ANDROID%20|%20IOS-0B1420?style=for-the-badge&logoColor=F5C518"/>
-<img src="https://img.shields.io/badge/LICENSE-MIT-F5C518?style=for-the-badge&labelColor=0B1420"/>
+<img src="https://img.shields.io/badge/Status-Live-F5C518?style=flat-square&labelColor=0B1420"/>
+<img src="https://img.shields.io/badge/Platforms-Web · Android · iOS-F5C518?style=flat-square&labelColor=0B1420"/>
+<img src="https://img.shields.io/badge/Made%20for-Mining%20Students-F5C518?style=flat-square&labelColor=0B1420"/>
 
 </div>
 
 <br/>
 
-## 🌟 Our Vision
+---
+
+<br/>
 
 <div align="center">
 
-*"Every mining student deserves a smart, structured, and accessible way to prepare — regardless of where they come from."*
+## ⛏️ The Problem We're Solving
 
 </div>
 
-Mining certifications are tough. Resources are scattered. Preparation is hard.
-**MinersBuddy** changes that — one regulation, one quiz, one miner at a time.
+Mining certification exams — CMR, MMR, DGMS diplomas — are some of the toughest in the country, and yet preparation material is scattered across outdated PDFs, photocopied notes, and word-of-mouth tips.
+
+**There was no single, structured, trustworthy place to prepare. So we built one.**
 
 <br/>
 
-## 🚀 What MinersBuddy Offers
+---
+
+<br/>
 
 <div align="center">
 
-| Module | Description | Status |
-|:---|:---|:---:|
-| 📚 **Coal Mines** (CMR 2017) | Chapter-wise structured content for all CMR certifications | 🟡 Coming Soon |
-| ⛰️ **Metal Mines** (MMR 1961) | Full MMR exam content for opencast & underground | 🔨 In Development |
-| 📝 **Mock Tests & PYQs** | Previous Year Questions + Full Mock Exams | 🔨 In Development |
-| 📄 **PDF Library** | CMR Handbook, MMR Guides, Formula Sheets & Quick Notes | 🔨 In Development |
-| 🗓️ **Exam Syllabus** | DGMS & JUT Diploma syllabus, downloadable | 🟡 Coming Soon |
-| 📢 **DGMS Announcements** | Live circulars & updates from DGMS | 🔨 In Development |
-| 🌐 **Web Platform** | Full platform at minersbuddy.vercel.app | ✅ Live |
-| 📱 **Mobile App** | Android & iOS | 🔨 In Development |
+## 🚀 What We're Building
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 📚
+**Structured Content**
+CMR & MMR chapters organized by exam level — Mining Mate to Manager
+
+</td>
+<td align="center" width="33%">
+
+### 📝
+**Mock Tests & PYQs**
+Full-length, timed exams built from real previous year questions
+
+</td>
+<td align="center" width="33%">
+
+### 📊
+**Smart Analytics**
+Track your scores, progress, and weak areas as you prepare
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-## 💡 Core Features
+---
+
+<br/>
+
+<div align="center">
+
+## 🗺️ Product Roadmap
+
+| Milestone | Status |
+|:---|:---:|
+| 🌐 Web Platform | ✅ **Live** |
+| 📝 Mock Tests & PYQs | 🔨 In Development |
+| 📄 PDF Library (Handbooks & Guides) | 🔨 In Development |
+| 📢 Live DGMS Announcements | 🔨 In Development |
+| 📚 Coal Mines (CMR 2017) Content | 🟡 Coming Soon |
+| 🗓️ Downloadable Exam Syllabus | 🟡 Coming Soon |
+| 📱 Android & iOS App | 🔨 In Development |
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 💛 Why MinersBuddy
+
+</div>
 
 <table>
 <tr>
 <td width="50%">
 
-📖 **Exam-wise Structured Content**
-Chapters organized by Mining Mate, Foreman, Overman & Manager level
-
-🧪 **Mock Tests & PYQs**
-Full-length tests with timer, question palette & instant result analysis
-
-📊 **Progress Tracker**
-Track tests done, average score & saved notes
-
-🔔 **Daily Regulation Tips**
-One regulation every day to keep you sharp
+🔔 &nbsp;**Daily Regulation Tips** — one regulation a day, stays with you
+🗓️ &nbsp;**Exam Countdown** — never lose track of your target date
+🌙 &nbsp;**Dark Mode** — built for late-night revision sessions
 
 </td>
 <td width="50%">
 
-📥 **PDF Downloads**
-CMR 2017 Handbook, MMR Guides, ventilation formulas & more
-
-🗓️ **Exam Countdown**
-Never miss your target exam date
-
-🌙 **Dark Mode**
-Easy on the eyes during late-night study sessions
-
-🔒 **Privacy First**
-Your data, your control
+📥 &nbsp;**Offline-Ready PDFs** — handbooks & formula sheets on the go
+🔒 &nbsp;**Privacy First** — your data always stays your own
+📈 &nbsp;**Built to Grow** — new modules shipping continuously
 
 </td>
 </tr>
@@ -87,60 +126,49 @@ Your data, your control
 
 <br/>
 
-## 🌐 Live Platform
+---
+
+<br/>
 
 <div align="center">
 
-### 🔗 [minersbuddy.vercel.app](https://minersbuddy.vercel.app/)
+## 🌐 Try It Now
+
+**[minersbuddy.vercel.app](https://minersbuddy.vercel.app/)**
 Open on any device — no download required.
 
-</div>
+<br/>
+
+## 👤 Founder
+
+**Vinit Karmkar** — *Founder & Builder*
+Built from the ground up by someone who understands what miners need to succeed.
 
 <br/>
 
-## 👥 The Team
-
-<div align="center">
-
-*One person. One mission. Every miner's success.*
-
-| Name | Role |
-|:---|:---|
-| **Vinit Karmkar** | Founder, Developer & Everything in Between |
-
-</div>
+---
 
 <br/>
 
-## 🤝 Contributing
+## 🤝 Get Involved
 
-Got suggestions? Found a bug? Want to add questions or regulations?
-
-```bash
-1. Fork this repository
-2. Create your feature branch:  git checkout -b feature/YourFeature
-3. Commit your changes:         git commit -m 'Add some feature'
-4. Push to the branch:          git push origin feature/YourFeature
-5. Open a Pull Request
-```
-
-All contributions are welcome — especially from mining professionals and students who know the field!
+Mining professional, student, or just want to help? We welcome contributions — content, corrections, ideas, and code.
 
 <br/>
 
-## 📬 Connect
+## 📬 Let's Connect
 
-<div align="center">
+<a href="https://minersbuddy.vercel.app/"><img src="https://img.shields.io/badge/Website-0B1420?style=for-the-badge&logo=vercel&logoColor=F5C518"/></a>
+<a href="mailto:info.minersbuddy@gmail.com"><img src="https://img.shields.io/badge/Email-0B1420?style=for-the-badge&logo=gmail&logoColor=F5C518"/></a>
+<a href="https://www.instagram.com/minersbuddy"><img src="https://img.shields.io/badge/Instagram-0B1420?style=for-the-badge&logo=instagram&logoColor=F5C518"/></a>
+<a href="https://x.com/minersbuddy"><img src="https://img.shields.io/badge/X-0B1420?style=for-the-badge&logo=x&logoColor=F5C518"/></a>
+<a href="https://youtube.com/@minersbuddy"><img src="https://img.shields.io/badge/YouTube-0B1420?style=for-the-badge&logo=youtube&logoColor=F5C518"/></a>
+<a href="https://www.facebook.com/minersbuddy"><img src="https://img.shields.io/badge/Facebook-0B1420?style=for-the-badge&logo=facebook&logoColor=F5C518"/></a>
 
-[![Website](https://img.shields.io/badge/Website-minersbuddy.vercel.app-0B1420?style=for-the-badge&logo=vercel&logoColor=F5C518)](https://minersbuddy.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-info.minersbuddy-0B1420?style=for-the-badge&logo=gmail&logoColor=F5C518)](mailto:info.minersbuddy@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@minersbuddy-0B1420?style=for-the-badge&logo=instagram&logoColor=F5C518)](https://www.instagram.com/minersbuddy)
-[![X](https://img.shields.io/badge/X-@minersbuddy-0B1420?style=for-the-badge&logo=x&logoColor=F5C518)](https://x.com/minersbuddy)
-[![YouTube](https://img.shields.io/badge/YouTube-@minersbuddy-0B1420?style=for-the-badge&logo=youtube&logoColor=F5C518)](https://youtube.com/@minersbuddy)
-[![Facebook](https://img.shields.io/badge/Facebook-minersbuddy-0B1420?style=for-the-badge&logo=facebook&logoColor=F5C518)](https://www.facebook.com/minersbuddy)
+<br/><br/>
 
-<sub>© 2026 MinersBuddy by kvinitkarmkar | All Rights Reserved</sub>
+<sub>© 2026 MinersBuddy · All Rights Reserved</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=120&section=footer" width="100%"/>
