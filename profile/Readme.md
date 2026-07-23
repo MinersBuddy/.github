@@ -122,19 +122,11 @@ The more you practice, the sharper your recommendations get — your weak areas 
 
 <br/>
 
-## 🛠️ Core Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,postgres,docker,git,github,vercel&theme=dark" />
-</div>
-
-<br/>
-
 Clean commits, iterative shipping, and a product-first mindset — we'd rather ship something useful and improve it than wait for perfect.
 
 <br/>
 
-## 🧬 Under the Hood
+##  Under the Hood
 
 <div align="center">
 <img src="../assets/forgetting-curve.svg" width="100%" />
@@ -155,7 +147,8 @@ Clean commits, iterative shipping, and a product-first mindset — we'd rather s
 <br/>
 
 <div align="center">
-## 📬 Connect
+  
+##📬 Connect
   
 [![Website](https://img.shields.io/badge/Website-minersbuddy.vercel.app-0B1420?style=for-the-badge&logo=vercel&logoColor=F5C518)](https://minersbuddy.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-info.minersbuddy-0B1420?style=for-the-badge&logo=gmail&logoColor=F5C518)](mailto:info.minersbuddy@gmail.com)
