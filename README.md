@@ -138,7 +138,7 @@ Clean commits, iterative shipping, and a product-first mindset — we'd rather s
 
 <br/>
 
-## 🧬 Under the Hood
+## Under the Hood
 
 <div align="center">
 <img src="./assets/forgetting-curve.svg" width="100%" />
