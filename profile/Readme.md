@@ -43,16 +43,6 @@ We believe good preparation shouldn't depend on scattered PDFs, outdated guides,
 
 We're early, we're building fast, and this profile evolves as the product does.
 
-<br/>
-
-## 🌐 Website
-
-<div align="center">
-
-**[minersbuddy.vercel.app](https://minersbuddy.vercel.app/)** — ✅ Live
-
-</div>
-
 The core web platform where students access content, tests, and progress tracking. Actively maintained with new features shipped continuously.
 
 <br/>
@@ -64,10 +54,6 @@ The core web platform where students access content, tests, and progress trackin
 **Android & iOS App** — 🔨 In Development
 
 </div>
-
-Bringing the full MinersBuddy experience to mobile — study on the go, offline access, and push reminders for upcoming exams.
-
-<br/>
 
 ## ✨ Features
 
@@ -151,8 +137,7 @@ Clean commits, iterative shipping, and a product-first mindset — we'd rather s
 ## 🧬 Under the Hood
 
 <div align="center">
-<img src="../assets/knowledge-graph.svg" width="48%" />
-<img src="../assets/forgetting-curve.svg" width="48%" />
+<img src="../assets/forgetting-curve.svg" width="100%" />
 </div>
 
 <p align="center"><sub>How content connects, and how we time every revision so it actually sticks.</sub></p>
@@ -187,7 +172,3 @@ Clean commits, iterative shipping, and a product-first mindset — we'd rather s
 </div>
 
 <br/>
-
-```
-────────────────────────────────────────────────────────────────────────────────
-```
