@@ -1,8 +1,13 @@
+
+<a align="center" href="https://minersbuddy.vercel.app/">
+  <img src="assets/banner.png" alt="MinersBuddy Banner" width="100%">
+</a>
+
 <div align="center">
-### *Engineering the future of mining education*
-
-<br/>
-
+  
+## *Engineering the future of mining education* 
+</div>
+<div align="center">
 <img src="https://img.shields.io/badge/ORG-MinersBuddy-0B1420?style=for-the-badge&logo=github&logoColor=F5C518"/>
 <img src="https://img.shields.io/badge/STATUS-In%20Progress-F5C518?style=for-the-badge&logoColor=0B1420&color=F5C518&labelColor=0B1420"/>
 <img src="https://img.shields.io/badge/FOCUS-Product%20%26%20Platform-0B1420?style=for-the-badge&logoColor=F5C518"/>
@@ -27,6 +32,16 @@ We believe good preparation shouldn't depend on scattered PDFs, outdated guides,
 
 <br/>
 
+##  Under the Hood
+
+<div align="center">
+<img src="../assets/forgetting-curve.svg" width="100%" />
+</div>
+
+<p align="center"><sub>How content connects, and how we time every revision so it actually sticks.</sub></p>
+
+<br/>
+
 ## 🚧 Currently In Progress
 
 <div align="center">
@@ -43,16 +58,6 @@ We believe good preparation shouldn't depend on scattered PDFs, outdated guides,
 
 We're early, we're building fast, and this profile evolves as the product does.
 
-<br/>
-
-## 🌐 Website
-
-<div align="center">
-
-**[minersbuddy.vercel.app](https://minersbuddy.vercel.app/)** — ✅ Live
-
-</div>
-
 The core web platform where students access content, tests, and progress tracking. Actively maintained with new features shipped continuously.
 
 <br/>
@@ -64,10 +69,6 @@ The core web platform where students access content, tests, and progress trackin
 **Android & iOS App** — 🔨 In Development
 
 </div>
-
-Bringing the full MinersBuddy experience to mobile — study on the go, offline access, and push reminders for upcoming exams.
-
-<br/>
 
 ## ✨ Features
 
@@ -132,27 +133,18 @@ Smart reminders that surface topics right before you'd naturally forget them —
 **📈 A Profile That Grows With You**
 The more you practice, the sharper your recommendations get — your weak areas get more attention, your strong areas stay fresh.
 
+</div>
+
 <br/>
 
 Clean commits, iterative shipping, and a product-first mindset — we'd rather ship something useful and improve it than wait for perfect.
 
 <br/>
 
-## Under the Hood
-
 <div align="center">
-<img src="./assets/forgetting-curve.svg" width="100%" />
-</div>
-
-<p align="center"><sub>How content connects, and how we time every revision so it actually sticks.</sub></p>
-
-<br/>
-
-## 🤝 Connect
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-minersbuddy.vercel.app-0B1420?style=for-the-badge&logo=vercel&logoColor=F5C518)](https://minersbuddy.vercel.app/)
+  
+## 📬 Connect
+  
 [![Email](https://img.shields.io/badge/Email-info.minersbuddy-0B1420?style=for-the-badge&logo=gmail&logoColor=F5C518)](mailto:info.minersbuddy@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@minersbuddy-0B1420?style=for-the-badge&logo=instagram&logoColor=F5C518)](https://www.instagram.com/minersbuddy)
 [![X](https://img.shields.io/badge/X-@minersbuddy-0B1420?style=for-the-badge&logo=x&logoColor=F5C518)](https://x.com/minersbuddy)
