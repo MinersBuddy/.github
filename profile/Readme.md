@@ -7,6 +7,7 @@
   
 ## *Engineering the future of mining education* 
 <div/>
+</div>
   
 <br/>
 
