@@ -11,7 +11,7 @@
   
 <br/>
 
-## ⛏️ Who We Are
+##  Who We Are
 
 We're the technology team behind **[MinersBuddy](https://minersbuddy.vercel.app/)** — building an AI-powered learning platform that gives every mining student a smarter, more structured way to prepare for their DGMS certifications.
 
