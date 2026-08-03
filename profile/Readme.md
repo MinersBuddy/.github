@@ -6,7 +6,7 @@
 <div align="center">
   
 ## *Engineering the future of mining education* 
-<div/>
+
 </div>
   
 <br/>
