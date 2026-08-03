@@ -1,6 +1,6 @@
 
 <a align="center" href="https://minersbuddy.vercel.app/">
-  <img src="assets/banner.png" alt="MinersBuddy Banner" width="100%">
+  <img src="../assets/banner.png" alt="MinersBuddy Banner" width="100%">
 </a>
 
 <div align="center">
