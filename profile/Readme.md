@@ -61,37 +61,6 @@ MinersBuddy isn't static content. It adapts to you.
 
 We're early and building fast, and this profile evolves as the product does. The core web platform, where students access content, tests, and progress tracking, is actively maintained with new features shipped continuously.
 
-## ✨ Feature Roadmap
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🔨 In Progress
-
-- [ ] Metal Mines (MMR 1961) content
-- [ ] Mock Tests & PYQs
-- [ ] PDF Library (handbooks, guides, formula sheets)
-- [ ] DGMS announcements & circulars
-- [ ] Personalized progress analytics
-- [ ] Mobile app build
-
-</td>
-<td valign="top" width="50%">
-
-### 🕐 Upcoming
-
-- [ ] Coal Mines (CMR 2017) content
-- [ ] Downloadable exam syllabus (DGMS & JUT Diploma)
-- [ ] Daily regulation tips
-- [ ] Exam countdown tracker
-- [ ] Dark mode
-- [ ] Notification system
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🛠️ How We Work
