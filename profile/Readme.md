@@ -2,21 +2,10 @@
   <img src="../assets/banner.png" alt="MinersBuddy Banner" width="100%">
 </a>
 
-<div align="center">
-
-# ⛏️ MinersBuddy
-
-**Engineering the future of mining education**
-
-[🌐 Website](https://minersbuddy.vercel.app/) · [🎮 Try Mino (3D Learning)](https://mino.minersbuddy.in/) · [📬 Contact](mailto:info.minersbuddy@gmail.com)
-
-</div>
-
----
 
 ## 👋 Who We Are
 
-We're the technology team behind **[MinersBuddy](https://minersbuddy.vercel.app/)**, an AI-powered learning platform that gives every mining student a smarter, more structured way to prepare for their **DGMS certifications**.
+We're the technology team behind **[MinersBuddy](https://minersbuddy.in)**, an AI-powered learning platform that gives every mining student a smarter, more structured way to prepare for their **DGMS certifications**.
 
 This account is where that platform gets built, piece by piece.
 
