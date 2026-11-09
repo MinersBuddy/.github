@@ -1,77 +1,48 @@
-
 <a align="center" href="https://minersbuddy.vercel.app/">
   <img src="../assets/banner.png" alt="MinersBuddy Banner" width="100%">
-</a>
+</a><div align="center">Engineering the future of mining education
 
-<div align="center">
-  
-## *Engineering the future of mining education* 
+</div><br/>Who We Are
 
-</div>
-  
-<br/>
-
-##  Who We Are
-
-We're the technology team behind **[MinersBuddy](https://minersbuddy.vercel.app/)** — building an AI-powered learning platform that gives every mining student a smarter, more structured way to prepare for their DGMS certifications.
+We're the technology team behind "MinersBuddy" (https://minersbuddy.vercel.app/) — building an AI-powered learning platform that gives every mining student a smarter, more structured way to prepare for their DGMS certifications.
 
 This account is where that platform gets built, piece by piece.
 
-<br/>
+<br/>🌟 Our Vision
 
-## 🌟 Our Vision
-
-> *A mining student anywhere — from a small town to a big city — should have the same quality of exam preparation as anyone else.*
+«A mining student anywhere — from a small town to a big city — should have the same quality of exam preparation as anyone else.»
 
 We believe good preparation shouldn't depend on scattered PDFs, outdated guides, or guesswork. MinersBuddy exists to turn that chaos into one clear, guided path — and this team is the engine that makes it real.
 
-<br/>
-
-##  Under the Hood
+<br/>Under the Hood
 
 <div align="center">
-<img src="../assets/forgetting-curve.svg" width="100%" />
-</div>
+  <img src="../assets/forgetting-curve.svg" width="100%" alt="MinersBuddy Learning and Revision System"/>
+</div><p align="center">
+  <sub>How content connects, and how we time every revision so it actually sticks.</sub>
+</p><br/>🚧 Currently In Progress
 
-<p align="center"><sub>How content connects, and how we time every revision so it actually sticks.</sub></p>
+<div align="center">Area| Status
+🌐 Core Web Platform| ✅ Live
+🧠 Smart Content & Test Engine| 🔨 Building
+📱 Mobile Experience| 🔨 Building
+📊 Personalized Analytics| 🔨 Building
+🔁 Continuous Improvements| 🟢 Ongoing
 
-<br/>
-
-## 🚧 Currently In Progress
-
-<div align="center">
-
-| Area | Status |
-|---|---|
-| 🌐 Core Web Platform | ✅ Live |
-| 🧠 Smart Content & Test Engine | 🔨 Building |
-| 📱 Mobile Experience | 🔨 Building |
-| 📊 Personalized Analytics | 🔨 Building |
-| 🔁 Continuous Improvements | 🟢 Ongoing |
-
-</div>
-
-We're early, we're building fast, and this profile evolves as the product does.
+</div>We're early, we're building fast, and this profile evolves as the product does.
 
 The core web platform where students access content, tests, and progress tracking. Actively maintained with new features shipped continuously.
 
-<br/>
+<br/>📱 Mobile App
 
-## 📱 Mobile App
+<div align="center">Android & iOS App — 🔨 In Development
 
-<div align="center">
-
-**Android & iOS App** — 🔨 In Development
-
-</div>
-
-## ✨ Features
+</div>✨ Features
 
 <table align="center">
 <tr>
-<td valign="top">
+<td valign="top">🔨 Ongoing
 
-**🔨 Ongoing**
 - Metal Mines (MMR 1961) content
 - Mock Tests & PYQs
 - PDF Library (Handbooks, Guides, Formula Sheets)
@@ -80,9 +51,8 @@ The core web platform where students access content, tests, and progress trackin
 - Mobile app build
 
 </td>
-<td valign="top">
+<td valign="top">🕐 Upcoming
 
-**🕐 Upcoming**
 - Coal Mines (CMR 2017) content
 - Downloadable exam syllabus (DGMS & JUT Diploma)
 - Daily regulation tips
@@ -92,64 +62,53 @@ The core web platform where students access content, tests, and progress trackin
 
 </td>
 </tr>
-</table>
+</table><br/>🧠 What Makes It Smart
 
-<br/>
-
-## 🧠 What Makes It Smart
-
-MinersBuddy isn't just static content — it adapts to *you*.
+MinersBuddy isn't just static content — it adapts to you.
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top">🎯 Personalized Prep
 
-**🎯 Personalized Prep**
 The platform learns what you know and what you don't — and adjusts what it shows you accordingly.
 
-**🧩 Content You Can Trust**
+🧩 Content You Can Trust
+
 Every question and explanation is grounded in real regulations and past papers — no vague or made-up answers.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top">🔍 Search That Understands You
 
-**🔍 Search That Understands You**
 Find what you need by meaning, not just exact keywords.
 
-**⏰ Revise at the Right Time**
+⏰ Revise at the Right Time
+
 Smart reminders that surface topics right before you'd naturally forget them — not too early, not too late.
 
 </td>
 </tr>
-</table>
+</table><div align="center">📈 A Profile That Grows With You
 
-<div align="center">
-
-**📈 A Profile That Grows With You**
 The more you practice, the sharper your recommendations get — your weak areas get more attention, your strong areas stay fresh.
 
-</div>
+</div><br/>🎮 Interactive 3D Learning Experience
 
-<br/>
+<div align="center"><a href="https://mino.minersbuddy.in/">
+  <img src="../assets/3DExplanation.gif" width="100%" alt="Explore MinersBuddy Interactive 3D Learning"/>
+</a><p>
+  <sub>Explore complex mining concepts through interactive 3D models, multi-angle visualization, and guided explanations.</sub>
+</p><p>
+  <b>👆 Click the animation above to experience Mino.</b>
+</p></div><br/>Clean commits, iterative shipping, and a product-first mindset — we'd rather ship something useful and improve it than wait for perfect.
 
-Clean commits, iterative shipping, and a product-first mindset — we'd rather ship something useful and improve it than wait for perfect.
+<br/><div align="center">📬 Connect
 
-<br/>
+""Email" (https://img.shields.io/badge/Email-info.minersbuddy-0B1420?style=for-the-badge&logo=gmail&logoColor=F5C518)" (mailto:info.minersbuddy@gmail.com)
 
-<div align="center">
-  
-## 📬 Connect
-  
-[![Email](https://img.shields.io/badge/Email-info.minersbuddy-0B1420?style=for-the-badge&logo=gmail&logoColor=F5C518)](mailto:info.minersbuddy@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@minersbuddy-0B1420?style=for-the-badge&logo=instagram&logoColor=F5C518)](https://www.instagram.com/minersbuddy)
-[![X](https://img.shields.io/badge/X-@minersbuddy-0B1420?style=for-the-badge&logo=x&logoColor=F5C518)](https://x.com/minersbuddy)
+""Instagram" (https://img.shields.io/badge/Instagram-@minersbuddy-0B1420?style=for-the-badge&logo=instagram&logoColor=F5C518)" (https://www.instagram.com/minersbuddy)
 
-</div>
+""X" (https://img.shields.io/badge/X-@minersbuddy-0B1420?style=for-the-badge&logo=x&logoColor=F5C518)" (https://x.com/minersbuddy)
 
-<br/>
+</div><br/><div align="center"><i>Building, one commit at a time — for every miner's success.</i>
 
-<div align="center">
-<i>Building, one commit at a time — for every miner's success.</i>
-</div>
-
-<br/>
+</div><br/>
