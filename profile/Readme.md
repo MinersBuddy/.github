@@ -1,4 +1,4 @@
-<a href="https://minersbuddy.vercel.app/">
+<a href="https://minersbuddy.in">
   <img src="../assets/banner.png" alt="MinersBuddy Banner" width="100%">
 </a>
 
